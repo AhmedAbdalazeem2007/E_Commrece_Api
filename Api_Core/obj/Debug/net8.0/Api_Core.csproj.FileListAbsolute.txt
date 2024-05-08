@@ -1,0 +1,12 @@
+D:\Projects\Web_E_Commerce_Api\Api_Core\bin\Debug\net8.0\Api_Core.deps.json
+D:\Projects\Web_E_Commerce_Api\Api_Core\bin\Debug\net8.0\Api_Core.dll
+D:\Projects\Web_E_Commerce_Api\Api_Core\bin\Debug\net8.0\Api_Core.pdb
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\Api_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\Api_Core.AssemblyInfoInputs.cache
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\Api_Core.AssemblyInfo.cs
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\Api_Core.csproj.CoreCompileInputs.cache
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\Api_Core.dll
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\refint\Api_Core.dll
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\Api_Core.pdb
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\ref\Api_Core.dll
+D:\Projects\Web_E_Commerce_Api\Api_Core\obj\Debug\net8.0\Api_Core.csproj.AssemblyReference.cache

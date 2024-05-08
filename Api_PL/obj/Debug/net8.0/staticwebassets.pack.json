@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\Hummus.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\Hummus.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\Koshery.jpeg",
+      "PackagePath": "staticwebassets\\Images\\products\\Koshery.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\Mahshi.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\Mahshi.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\aleid-kahk.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\aleid-kahk.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\baba-ghanoush.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\baba-ghanoush.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\bamya-egyptian-okra-stew.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\bamya-egyptian-okra-stew.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\coconut-yogurt-semolina-cake.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\coconut-yogurt-semolina-cake.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\download.jpeg",
+      "PackagePath": "staticwebassets\\Images\\products\\download.jpeg"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-baked-pasta.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-baked-pasta.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-baklava.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-baklava.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-bread-pudding.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-bread-pudding.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-cake.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-cake.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-cushioned-pie.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-cushioned-pie.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-meatballs.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-meatballs.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-mombar.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-mombar.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-rice-pudding.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-rice-pudding.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-sandwiches.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-sandwiches.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-shakshouka.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-shakshouka.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\egyptian-shortbread-cookie.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\egyptian-shortbread-cookie.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\green-slimy-soup.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\green-slimy-soup.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\hamam-mahshi.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\hamam-mahshi.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\mini-pancakes.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\mini-pancakes.webp"
+    },
+    {
+      "Id": "D:\\Projects\\Web_E_Commerce_Api\\Api_PL\\wwwroot\\Images\\products\\pita-with-chickpeas.webp",
+      "PackagePath": "staticwebassets\\Images\\products\\pita-with-chickpeas.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Api_PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Api_PL.props",
+      "PackagePath": "build\\Api_PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Api_PL.props",
+      "PackagePath": "buildMultiTargeting\\Api_PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Api_PL.props",
+      "PackagePath": "buildTransitive\\Api_PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

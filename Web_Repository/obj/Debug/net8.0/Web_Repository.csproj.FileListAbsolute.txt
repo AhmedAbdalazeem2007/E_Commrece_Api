@@ -1,0 +1,17 @@
+D:\Projects\Web_E_Commerce_Api\Web_Repository\bin\Debug\net8.0\Web_Repository.deps.json
+D:\Projects\Web_E_Commerce_Api\Web_Repository\bin\Debug\net8.0\Web_Repository.runtimeconfig.json
+D:\Projects\Web_E_Commerce_Api\Web_Repository\bin\Debug\net8.0\Web_Repository.dll
+D:\Projects\Web_E_Commerce_Api\Web_Repository\bin\Debug\net8.0\Web_Repository.pdb
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repository.csproj.AssemblyReference.cache
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repository.AssemblyInfoInputs.cache
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repository.AssemblyInfo.cs
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repository.csproj.CoreCompileInputs.cache
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repository.dll
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\refint\Web_Repository.dll
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repository.pdb
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repository.genruntimeconfig.cache
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\ref\Web_Repository.dll
+D:\Projects\Web_E_Commerce_Api\Web_Repository\bin\Debug\net8.0\Api_Core.dll
+D:\Projects\Web_E_Commerce_Api\Web_Repository\bin\Debug\net8.0\Api_Core.pdb
+D:\Projects\Web_E_Commerce_Api\Web_Repository\obj\Debug\net8.0\Web_Repo.58A83D69.Up2Date
